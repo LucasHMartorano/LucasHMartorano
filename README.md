@@ -5,9 +5,13 @@
 #### 💭 A coisa mais constante do mundo é a mudança 💭
 
 • 🎓 Graduado em Química | UFF
+
 • 🎓 Mestre em Química | UFF
+
 • 🎓 Atualmente, doutorando em Química | UFF
+
 • 🌱 Data Scientist em formação
+
 • 📍 Rio de Janeiro - RJ
 
 Sou amante da ciência e tecnologia desde pequeno. 
